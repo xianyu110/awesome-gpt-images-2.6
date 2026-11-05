@@ -143,7 +143,7 @@ ChatGPT 用户可直接在对话中使用 Images 2.6（含 GIF）；无需写代
 
 ## 案例画廊
 
-下列案例提示词与示意输出均整理自 OpenAI 官方文档/公告。图片保存在本仓库 `images/`，便于离线浏览与 Pages 展示。**提示词原文收录并注明来源**；未公开提示词的示例会标明「提示词未公开」。
+下列案例提示词与示意输出均整理自 OpenAI 官方文档/公告与官方 X 账号。图片保存在本仓库 `images/`（文档示例镜像）。**仅收录文件名或文案明确标注 GPT Image 2.6 / Images 2.6 的案例**；社区未核实模型的帖子不收录。**提示词原文收录并注明来源**；未公开提示词的示例标明「提示词未公开」。
 
 ### 1. Complexity 对比：纸雕足球夺冠（Sunburst）
 
@@ -448,12 +448,341 @@ Include ONLY this packaging text (verbatim):
 
 ### 15. 公告案例：OpenArt 股价表情 GIF 精灵表
 
-OpenAI 发布页展示了由 OpenArt 制作的 chibi 办公室职员动画精灵表示例（两套：下跌流泪 / 上涨撒钱）。完整英文提示词见公告原文（篇幅较长，此处不重复粘贴全文，请点来源）。
+OpenAI 发布页展示由 **OpenArt** 制作、标注为 Images 2.6 能力的 chibi 办公室职员动画精灵表（下跌流泪 / 上涨撒钱）。下列英文提示词为公告原文。
 
-**提示词**：已在官方公告公开（Prompt 1 / Prompt 2）。  
-**本仓库图片**：公告社交头图缓存见 `images/images-2-6-social.png`；精灵表逐帧大图请直接查看公告页（避免二次转存动态资源失效）。
+**提示词 1（下跌）**：
 
-来源：[Introducing Images 2.6 · Animate your ideas with GIFs](https://openai.com/index/introducing-images-2-6/)
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart. Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+**提示词 2（上涨）**：
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing. Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+**本仓库图片**：公告社交头图缓存 `images/images-2-6-social.png`；精灵表成图以公告页为准（页面资源多为动态/CDN，未二次镜像逐帧大图，避免失效）。
+
+来源：[Introducing Images 2.6 · Animate your ideas with GIFs](https://openai.com/index/introducing-images-2-6/)（Created by OpenArt）
+
+---
+
+### 16. 历史语境：1969 年 Bethel 户外人群（生成）
+
+**参数**：`size=1024x1536`，`quality=medium`。官方标注 GPT Image 2.6 Flare / Sunburst。
+
+**提示词**：
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![world flare](images/world-knowledge-gpt-image-2-6-flare.webp) | ![world sunburst](images/world-knowledge-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Use historical and real-world context](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 17. 布局保持翻译：咖啡机信息图 → 西班牙语（编辑）
+
+以案例 4 的咖啡机信息图为输入；官方 2.6 Flare / Sunburst 输出。
+
+**参数**：`size=1024x1536`，`quality=high`。
+
+**提示词**：
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![sp flare](images/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp) | ![sp sunburst](images/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Translate while preserving layout](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 18. 风格迁移：像素风摩托骑士（编辑）
+
+输入为文档中的像素风参考图；官方标注 2.6 Flare / Sunburst。
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![moto flare](images/motorcycle-gpt-image-2-6-flare.webp) | ![moto sunburst](images/motorcycle-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Transfer a visual style](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 19. 身份保持换装（编辑）
+
+人物照片 + 三件服装参考；官方 2.6 Flare / Sunburst。
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![outfit flare](images/outfit-gpt-image-2-6-flare.webp) | ![outfit sunburst](images/outfit-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Preserve identity and change clothing](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 20. 多图合成：把狗放入场景（编辑）
+
+场景图为 image 1、狗为 image 2；官方 2.6 Flare / Sunburst。
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![dog flare](images/test-woman-with-dog-gpt-image-2-6-flare.webp) | ![dog sunburst](images/test-woman-with-dog-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Combine references](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 21. 草图转写实山谷（编辑）
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![valley flare](images/realistic-valley-gpt-image-2-6-flare.webp) | ![valley sunburst](images/realistic-valley-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Turn a drawing into a realistic image](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 22. 局部移除：拿掉手中的花（编辑）
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![nofower flare](images/man-with-no-flower-gpt-image-2-6-flare.webp) | ![nofower sunburst](images/man-with-no-flower-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Remove an object](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 23. 人物入景：营地与熊（编辑）
+
+以博物馆女性照片为输入；官方强调省略 `input_fidelity`。
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![scene flare](images/scene-gpt-image-2-6-flare.webp) | ![scene sunburst](images/scene-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Insert a person into a scene](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 24. 多轮精修起点：洗发水公路广告牌（编辑）
+
+以透明抠图洗发水产品为输入；官方 2.6 Flare / Sunburst。
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![bb flare](images/billboard-gpt-image-2-6-flare.webp) | ![bb sunburst](images/billboard-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Create the starting image](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 25. 多轮精修：广告牌改为冬夜雪景（编辑）
+
+以上一步各模型广告牌输出为输入。
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![winter flare](images/billboard-winter-gpt-image-2-6-flare.webp) | ![winter sunburst](images/billboard-winter-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Change one condition](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 26. 角色一致性：建立儿童书主角（生成）
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![cb1 flare](images/childrens-book-illustration-1-gpt-image-2-6-flare.webp) | ![cb1 sunburst](images/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Establish the character](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 27. 角色一致性：续写雪后救松鼠（编辑）
+
+复用上一步角色图；官方 2.6 Flare / Sunburst。
+
+**参数**：`size=1024x1536`，`quality=medium`。
+
+**提示词**：
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![cb2 flare](images/childrens-book-illustration-2-gpt-image-2-6-flare.webp) | ![cb2 sunburst](images/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Continue the story](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 28. 室内家具替换：白椅 → 木椅（编辑）
+
+**参数**：`size=1536x1024`，`quality=medium`。
+
+**提示词**：
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+| Flare | Sunburst |
+|:-----:|:--------:|
+| ![chairs flare](images/kitchen-chairs-gpt-image-2-6-flare.webp) | ![chairs sunburst](images/kitchen-chairs-gpt-image-2-6-sunburst.webp) |
+
+来源：[Image prompting · Change furniture in a room](https://developers.openai.com/api/docs/guides/image-prompting)
+
+---
+
+### 29. 官方账号宣传片（有图无提示词）
+
+OpenAI / OpenAIDevs 发布 Images 2.6 时附带宣传视频；下列为视频预览静帧镜像，**非** API 示例输出。
+
+**提示词未公开**（宣传成片，无逐步复现提示）。
+
+| @OpenAI | @OpenAIDevs |
+|:-------:|:-----------:|
+| ![oa](images/openai-official-images-2-6-tweet-preview.jpg) | ![devs](images/openaidevs-2-6-tweet-preview.jpg) |
+
+来源：[OpenAI 帖](https://x.com/OpenAI/status/2118124944928432327) · [OpenAIDevs 帖](https://x.com/OpenAIDevs/status/2118124753340756055)（2026-11-04）
 
 ---
 
@@ -477,6 +806,8 @@ OpenAI 发布页展示了由 OpenArt 制作的 chibi 办公室职员动画精灵
 5. [GPT-Image-2.6 Sunburst 模型卡](https://developers.openai.com/api/docs/models/gpt-image-2.6-sunburst)
 6. [OpenAI API Pricing](https://openai.com/api/pricing/)
 7. [界面新闻快讯摘要](https://www.jiemian.com/article/15295411.html)（中文报道，非官方）
+8. [OpenAI · Images 2.6 公告帖](https://x.com/OpenAI/status/2118124944928432327)
+9. [OpenAIDevs · GPT-Image-2.6 API 公告帖](https://x.com/OpenAIDevs/status/2118124753340756055)
 
 ---
 
