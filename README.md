@@ -825,6 +825,10 @@ OpenAI / OpenAIDevs 发布 Images 2.6 时附带宣传视频；下列为视频预
 - 模型能力、价格、限额以官方最新文档为准，本 README 可能滞后。
 - 生成内容须遵守 OpenAI 使用政策与当地法律。
 
+## 致谢 / Thanks
+
+- 感谢 [LINUX DO](https://linux.do/) 社区佬友对开源分享的支持与讨论氛围。
+
 ## License
 
 教程与仓库编排代码采用 [MIT](LICENSE)。第三方图片与提示词保留原权利。
