@@ -132,12 +132,19 @@ Path("otter.png").write_bytes(base64.b64decode(result.data[0].b64_json))
 
 ChatGPT 用户可直接在对话中使用 Images 2.6（含 GIF）；无需写代码。
 
-### 兼容网关（可选、轻量提及）
+### 国内/兼容访问笔记（可选）
 
-若团队已使用 OpenAI 兼容中转，可将 `base_url` 指向兼容端点，模型名仍用 `gpt-image-2.6-flare` / `gpt-image-2.6-sunburst`（以网关实际挂载为准）。合规与计费以各服务商条款为准；**优先官方**。  
-（本仓库不对第三方网关可用性做保证。若使用 tryallapi 一类兼容入口，可自行附加 `aff=5A6A` 参数，非必需。）
+官方 Platform / ChatGPT 仍是首选。若因网络或支付需要临时走兼容入口，下列为社区常用渠道备忘（**非广告**；可用性、合规与计费以各站点当时条款为准，本仓库不做保证）。调用 API 时模型名仍建议写 `gpt-image-2.6-flare` / `gpt-image-2.6-sunburst`（以网关实际挂载为准）。
 
-相关工具/店铺（可选）：[https://wzyp.cn/shop/maynorai](https://wzyp.cn/shop/maynorai)
+| 渠道类型 | 访问网址 | 适用场景 |
+|----------|----------|----------|
+| GPT 国内高速镜像站 | https://trygpt.asia/list/#/home | 适合网页端免梯直接对话、工作流轻量体验 |
+| MomoAI 包月套餐 | https://momoai.asia/home | 适合持续使用、希望按月订阅套餐的用户 |
+| 全模型 API 聚合站 | https://tryallapi.com/ | 适合开发者调用、低延迟直连、多模型一站式接入 |
+| 官方代充通道 | https://chongzhi.trygpt.asia/ | 解决海外支付门槛，官方账户直充 |
+| Trymodel 多模型聊天 | https://trymodel.chat/ | 适合在同一网页中体验不同 AI 模型的对话 |
+
+补充：在 tryallapi 注册/邀请场景可自行附加 `aff=5A6A`（例如 `https://tryallapi.com/?aff=5A6A`），非必需。相关工具店铺（可选）：[https://wzyp.cn/shop/maynorai](https://wzyp.cn/shop/maynorai)
 
 ---
 
