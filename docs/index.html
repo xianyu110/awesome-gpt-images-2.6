@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Awesome GPT Image 2.6 · Images 2.6 案例与特性</title>
+  <meta name="description" content="OpenAI Images 2.6 / GPT Image 2.6 Flare & Sunburst 介绍、特性与官方提示词案例画廊（非官方合集）" />
+  <meta property="og:title" content="Awesome GPT Image 2.6" />
+  <meta property="og:description" content="Images 2.6 / GPT Image 2.6 介绍、特性与案例画廊" />
+  <meta property="og:image" content="images/images-2-6-social.png" />
+  <style>
+    :root { --bg:#0b0f14; --card:#141a22; --text:#e8eef6; --muted:#9fb0c3; --accent:#6ee7b7; --link:#7dd3fc; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "PingFang SC", "Noto Sans SC", sans-serif; background:var(--bg); color:var(--text); line-height:1.65; }
+    a { color:var(--link); }
+    header { padding:2.5rem 1.25rem 1rem; max-width:1100px; margin:0 auto; }
+    header img.hero { width:100%; max-height:320px; object-fit:cover; border-radius:16px; border:1px solid #243041; }
+    h1 { font-size: clamp(1.6rem, 3vw, 2.2rem); margin:1rem 0 .5rem; }
+    .badge { display:inline-block; background:#123528; color:var(--accent); padding:.2rem .6rem; border-radius:999px; font-size:.85rem; margin-right:.4rem; }
+    .muted { color:#9fb0c3; }
+    main { max-width:1100px; margin:0 auto; padding:0 1.25rem 4rem; }
+    section { margin:2.5rem 0; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:1rem; }
+    .card { background:var(--card); border:1px solid #243041; border-radius:14px; overflow:hidden; }
+    .card img, .card object { width:100%; display:block; background:#0a0e13; }
+    .card .body { padding:1rem 1.1rem 1.2rem; }
+    .card h3 { margin:.2rem 0 .5rem; font-size:1.05rem; }
+    pre { white-space:pre-wrap; word-break:break-word; background:#0a0e13; border:1px solid #243041; border-radius:10px; padding:.85rem 1rem; font-size:.85rem; color:#d7e3f0; }
+    table { width:100%; border-collapse:collapse; font-size:.95rem; }
+    th, td { border:1px solid #243041; padding:.55rem .7rem; text-align:left; vertical-align:top; }
+    th { background:#182230; }
+    footer { border-top:1px solid #243041; padding:2rem 1.25rem; color:#9fb0c3; max-width:1100px; margin:0 auto; font-size:.9rem; }
+    .pair { display:grid; grid-template-columns:1fr 1fr; gap:.75rem; }
+    @media (max-width:700px){ .pair { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <img class="hero" src="images/images-2-6-social.png" alt="OpenAI Images 2.6" />
+    <p>
+      <span class="badge">非官方合集</span>
+      <span class="badge">OpenAI · 2026-11-04</span>
+      <span class="badge">Flare &amp; Sunburst</span>
+    </p>
+    <h1>Awesome GPT Image 2.6（Images 2.6）</h1>
+    <p class="muted">介绍、模型特性与官方提示词案例画廊。完整中文文档见仓库 <a href="https://github.com/xianyu110/awesome-gpt-images-2.6">README</a>。</p>
+  </header>
+  <main>
+    <section>
+      <h2>一句话</h2>
+      <p>OpenAI <strong>Images 2.6</strong> 于 2026-11-04 发布；API 型号为 <code>gpt-image-2.6-flare</code>（快迭代）与 <code>gpt-image-2.6-sunburst</code>（精细编辑）。官方称速度约提升 50%，并新增原生 GIF、SVG、markup 标注编辑与 <code>complexity</code> 参数。</p>
+      <table>
+        <tr><th>产品名</th><td>Images 2.6（ChatGPT / Codex）</td></tr>
+        <tr><th>API</th><td><code>gpt-image-2.6-flare</code> · <code>gpt-image-2.6-sunburst</code></td></tr>
+        <tr><th>端点</th><td><code>/v1/images/generations</code> · <code>/v1/images/edits</code></td></tr>
+        <tr><th>官方公告</th><td><a href="https://openai.com/index/introducing-images-2-6/">openai.com/index/introducing-images-2-6</a></td></tr>
+      </table>
+    </section>
+
+    <section>
+      <h2>案例画廊</h2>
+      <p class="muted">图片为 OpenAI 开发者文档示例镜像；提示词原文见各卡片。隐私场景已选用官方合成示例，无个人隐私打码需求。</p>
+
+      <div class="grid" style="margin-top:1rem">
+        <article class="card">
+          <div class="pair">
+            <img src="images/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp" alt="paper-cut low" />
+            <img src="images/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp" alt="paper-cut high" />
+          </div>
+          <div class="body">
+            <h3>1. Complexity：纸雕足球夺冠</h3>
+            <p class="muted">Sunburst · low vs high complexity</p>
+            <pre>A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="monkey lantern gif" />
+          <div class="body">
+            <h3>2. 原生 GIF：提灯小猴</h3>
+            <p class="muted">Sunburst · gif · 9 frames × 200ms</p>
+            <pre>A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk... Make the motion loop smoothly.</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="pair">
+            <img src="images/photorealism-gpt-image-2-6-flare.webp" alt="sailor flare" />
+            <img src="images/photorealism-gpt-image-2-6-sunburst.webp" alt="sailor sunburst" />
+          </div>
+          <div class="body">
+            <h3>3. 纪实摄影：渔民与狗</h3>
+            <p class="muted">Flare vs Sunburst</p>
+            <pre>Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat. ... No glamorization, no heavy retouching.</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/infographic-coffee-machine-gpt-image-2-6-sunburst.webp" alt="coffee infographic" />
+          <div class="body">
+            <h3>4. 信息图：咖啡机流程</h3>
+            <pre>Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. ...</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/thread-ad-gpt-image-2-6-sunburst.webp" alt="thread ad" />
+          <div class="body">
+            <h3>5. 精确文案：Thread 广告</h3>
+            <pre>... tagline "Yours to Create." ... Render the tagline exactly once ...</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="pair">
+            <img src="images/field-and-flour-gpt-image-2-6-sunburst.svg" alt="svg logo" />
+            <img src="images/logo-generation-1-gpt-image-2-6-sunburst.webp" alt="raster logo" />
+          </div>
+          <div class="body">
+            <h3>6. SVG / Logo：Field &amp; Flour</h3>
+            <pre>Create an original, non-infringing logo for a company called Field &amp; Flour, a local bakery. ... Fully transparent background.</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/comic-reel-gpt-image-2-6-sunburst.webp" alt="comic" />
+          <div class="body">
+            <h3>7. 四格漫画：宠物狂欢</h3>
+            <pre>Create a short vertical comic-style reel with 4 panels. ...</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/ui-farmers-market-gpt-image-2-6-sunburst.webp" alt="ui mockup" />
+          <div class="body">
+            <h3>8. UI：农贸市场 App</h3>
+            <pre>Create a realistic mobile app UI mockup for a local farmers market. ... Place the UI mockup in an iPhone frame.</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp" alt="biology" />
+          <div class="body">
+            <h3>9. 教育图：细胞呼吸</h3>
+            <pre>Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students. ...</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/market-opportunity-slide-gpt-image-2-6-sunburst.webp" alt="slide" />
+          <div class="body">
+            <h3>10. 幻灯片：Market Opportunity</h3>
+            <p class="muted">示例数字为虚构，请替换为真实数据</p>
+            <pre>Create one pitch-deck slide titled "Market Opportunity" ... TAM $42B / SAM $8.7B / SOM $340M ...</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="pair">
+            <img src="images/markup-vase-input-gpt-image-2-6.webp" alt="markup input" />
+            <img src="images/markup-vase-gpt-image-2-6-flare.webp" alt="markup output" />
+          </div>
+          <div class="body">
+            <h3>11. Markup 编辑：花瓶改色</h3>
+            <pre>Recolor the striped vase inside the red circle to solid cobalt blue ceramic. ... Remove the red circle from the finished photo.</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/extract-product-gpt-image-2-6-sunburst.webp" alt="cutout" />
+          <div class="body">
+            <h3>12. 透明抠图产品</h3>
+            <pre>Extract the product from the input image and isolate it on a fully transparent background. ...</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp" alt="holiday card" />
+          <div class="body">
+            <h3>13. 节日贺卡：旧泰迪熊</h3>
+            <pre>... Include ONLY this card text: "Merry Christmas — some memories never fade."</pre>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="images/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp" alt="toy" />
+          <div class="body">
+            <h3>14. 收藏玩具包装</h3>
+            <pre>... packaging text: "Christmas Memories Edition"</pre>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>快速开始</h2>
+      <pre>curl -X POST "https://api.openai.com/v1/images/generations" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"model":"gpt-image-2.6-sunburst","prompt":"A minimalist ceramic mug on limestone","quality":"medium","size":"1024x1024","output_format":"png"}'</pre>
+      <p>完整参数表、定价与接入说明见 <a href="https://github.com/xianyu110/awesome-gpt-images-2.6/blob/main/README.md">README.md</a>。</p>
+    </section>
+
+    <section>
+      <h2>参考资料</h2>
+      <ul>
+        <li><a href="https://openai.com/index/introducing-images-2-6/">Introducing Images 2.6</a></li>
+        <li><a href="https://developers.openai.com/api/docs/guides/image-generation">Image generation</a></li>
+        <li><a href="https://developers.openai.com/api/docs/guides/image-prompting">Image prompting</a></li>
+        <li><a href="https://developers.openai.com/api/docs/models/gpt-image-2.6-flare">Flare 模型卡</a> · <a href="https://developers.openai.com/api/docs/models/gpt-image-2.6-sunburst">Sunburst 模型卡</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>非官方学习索引 · MIT 许可（教程编排）· 示例图版权归 OpenAI / 原作者。</p>
+    <p>仓库：<a href="https://github.com/xianyu110/awesome-gpt-images-2.6">github.com/xianyu110/awesome-gpt-images-2.6</a></p>
+  </footer>
+</body>
+</html>
