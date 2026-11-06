@@ -999,6 +999,493 @@ Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
 
 ---
 
+### 39. 社区 · 黑色连体衣棚拍时尚人像（@aisumeragi）
+
+作者称用 ChatGPT Image 2.6 约 30 秒生成时尚人像展示。
+
+**提示词未公开**（见原帖）。
+
+| 预览 |
+|:----:|
+| ![](images/community-aisumeragi.jpg) |
+
+来源：[X 原帖 @aisumeragi](https://x.com/aisumeragi/status/2118188273134915596)（2026-11-05）
+
+---
+
+### 40. 社区 · 奶油团子日常表情 GIF（@Leviwoyun）
+
+作者用 GPT Images 2.6 做表情包动图合集展示。
+
+**提示词未公开**（见原帖）。
+
+| 静帧 | GIF 镜像 |
+|:----:|:--------:|
+| ![](images/community-leviwoyun-still.jpg) | ![](images/community-leviwoyun.gif) |
+
+来源：[X 原帖 @Leviwoyun](https://x.com/Leviwoyun/status/2118157743840469222)（2026-11-05）
+
+---
+
+### 41. 社区 · 蓝发女仆 / 大肥鱼反应表情 GIF（@op7418）
+
+作者用 GPT-image-2.6 直出 GIF 表情包，并在回复中公开完整模板（需上传角色参考图）。
+
+**提示词（作者回复原文）**：
+
+```text
+请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。
+
+【角色保持一致】
+保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。
+保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。
+
+【自动设计动作】
+理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。
+突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。
+根据主题添加必要的少量道具，保持画面简洁。
+主动设计首尾衔接，让动画能够自然循环播放。
+
+【自动配字】
+根据主题提炼一句简短、有网感的中文配字，优先控制在 2～8 个字。
+如果主题中用引号指定了台词，直接使用该台词。
+字幕放在顶部，使用粗圆体、深蓝字、白色描边；文字、字形和位置全程稳定，角色与道具不遮挡字幕。
+
+【画面与输出】
+正方形画面，纯白背景，固定镜头，主体居中并保留足够边距。
+动画约 2～3 秒，无限循环，动作清晰，适合聊天时作为表情包发送。
+最终交付实际会播放的多帧 GIF 文件，并提供下载。
+
+表情包主题：【在这里填一句话，描述你想表达的梗、情绪或动作】
+```
+
+| 参考图 | GIF 示例 |
+|:------:|:--------:|
+| ![](images/community-op7418-ref1.jpg) ![](images/community-op7418-ref2.jpg) | ![](images/community-op7418-1.gif) ![](images/community-op7418-2.gif) |
+
+来源：[X 原帖 @op7418](https://x.com/op7418/status/2118181775688241456) · [提示词回复](https://x.com/op7418/status/2118181972451438662)（2026-11-05）
+
+---
+
+### 42. 社区 · 阳光花园动漫情侣连续编辑（@k_matsumaru）
+
+作者用 GPT Image 2.6（Flare 起始）测试多轮编辑一致性，附对比视频。
+
+**提示词未公开**（见原帖）。
+
+| 预览 |
+|:----:|
+| ![](images/community-kmatsu.jpg) |
+
+来源：[X 原帖 @k_matsumaru](https://x.com/k_matsumaru/status/2118186638228816322)（2026-11-05）
+
+---
+
+### 43. 社区 · 橙色放射背景眼镜男肖像循环 GIF（@CuiMao）
+
+作者标注 “GPT image 2.6 test” 的循环肖像 GIF。
+
+**提示词未公开**（见原帖）。
+
+| GIF 镜像 |
+|:--------:|
+| ![](images/community-cuimao.gif) |
+
+来源：[X 原帖 @CuiMao](https://x.com/CuiMao/status/2118271313764925886)（2026-11-05）
+
+---
+
+### 44. 社区 · Q 版角角女孩华丽礼服舞蹈 GIF（@798145343h）
+
+作者测试 Image 2.6 直出 GIF，做了成对舞蹈循环。
+
+**提示词未公开**（见原帖）。
+
+| GIF 1 | GIF 2 |
+|:-----:|:-----:|
+| ![](images/community-gangban-dance1.gif) | ![](images/community-gangban-dance2.gif) |
+
+来源：[X 原帖 @798145343h](https://x.com/798145343h/status/2118164732989608405)（2026-11-05）
+
+---
+
+### 45. 社区 · 彩色花朵环绕宣传标题卡（@vikktorrrre）
+
+作者称 “1 prompt and Images 2.6 made this”。
+
+**提示词未公开**（见原帖）。
+
+| 预览 |
+|:----:|
+| ![](images/community-vikktorrrre.jpg) |
+
+来源：[X 原帖 @vikktorrrre](https://x.com/vikktorrrre/status/2118128944058716210)（2026-11-04）
+
+---
+
+### 46. 社区 · 原生 GIF 实为 Sprite Sheet 裁切（@Mashiro_0619）
+
+作者拆解 GPT Image 2.6 原生 GIF：先画 3×3 精灵表再硬缝成动图，并晒出精灵表截图。
+
+**提示词未公开**（见原帖；本条侧重机制观察）。
+
+| 精灵表示意 |
+|:----------:|
+| ![](images/community-mashiro-spritesheet.jpg) |
+
+来源：[X 原帖 @Mashiro_0619](https://x.com/Mashiro_0619/status/2118216167613685875)（2026-11-05）
+
+---
+
+### 47. 社区 · 门镜 / 对讲监视器视角角色（@kabumira862571）
+
+作者公开 GPT-Image 2.6 提示词模板（上传角色图）。
+
+**提示词（原帖原文）**：
+
+```text
+＊＊＊を“ドアスコープ”か“インターホン室内モニター”にしてください
+
+Prompt（画像アップロード）：
+玄関先でこちらを見るキャラ。
+[＊＊＊]
+キャラは、アップロード画像を参照。
+顔・髪型・服装まで忠実に再現。
+晴れた住宅街、自然光。
+アスペクト比縦4:5。
+```
+
+| 示例 1 | 示例 2 |
+|:------:|:------:|
+| ![](images/community-kabumira-1.jpg) | ![](images/community-kabumira-2.jpg) |
+
+来源：[X 原帖 @kabumira862571](https://x.com/kabumira862571/status/2118220107487051883)（2026-11-05）
+
+---
+
+### 48. 社区 · RAM trap 迷因 GIF（@HarshithLucky3）
+
+作者称首次用 GPT image 2.6 做 RAM trap meme。
+
+**提示词未公开**（见原帖）。
+
+| GIF 镜像 |
+|:--------:|
+| ![](images/community-ram-trap.gif) |
+
+来源：[X 原帖 @HarshithLucky3](https://x.com/HarshithLucky3/status/2118224963362779373)（2026-11-05）
+
+---
+
+### 49. 社区 · RETO 3D 相机效果尝试（@okl0ok）
+
+作者用 GPT Image 2.6 尝试 RETO 3D 相机观感（自称未完全成功）。
+
+**提示词未公开**（见原帖）。
+
+| GIF 镜像 |
+|:--------:|
+| ![](images/community-reto.gif) |
+
+来源：[X 原帖 @okl0ok](https://x.com/okl0ok/status/2118230434207400329)（2026-11-05）
+
+---
+
+### 50. 社区 · 花园橘猫肖像加抚摸动作 GIF（@luowj_wxy）
+
+作者演示用 GPT-Image 2.6 Flare/Sunburst 把静图变成轻微动作 GIF。
+
+**提示词见原帖**（简述：保留构图，让女生轻轻抚摸猫头）。
+
+| 静帧 | GIF |
+|:----:|:---:|
+| ![](images/community-cat-still.jpg) | ![](images/community-cat.gif) |
+
+来源：[X 原帖 @luowj_wxy](https://x.com/luowj_wxy/status/2118231871381471707)（2026-11-05）
+
+---
+
+### 51. 社区 · 六宫格关键帧「自作聪明」对比（@Sirilee2026）
+
+作者用 `gpt-image-2.6-sunburst` 做视频关键帧六宫格，展示模型擅自改版式后的结果，并与 2.5 对照。
+
+**提示词见原帖**（要求六宫格关键帧；完整参数未全文公开）。
+
+| 2.6 结果 1 | 2.6 结果 2 | 对照 |
+|:----------:|:----------:|:----:|
+| ![](images/community-sirilee-1.jpg) | ![](images/community-sirilee-2.jpg) | ![](images/community-sirilee-3.jpg) |
+
+来源：[X 原帖 @Sirilee2026](https://x.com/Sirilee2026/status/2118236882656239715)（2026-11-05）
+
+---
+
+### 52. 社区 ·「平成」主题 SNS GIF（@rem_rev）
+
+作者公开短提示词，用 ChatGPT Images 2.6 生成 SNS 向 GIF。
+
+**提示词（原帖原文）**：
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+| GIF 镜像 |
+|:--------:|
+| ![](images/community-heisei.gif) |
+
+来源：[X 原帖 @rem_rev](https://x.com/rem_rev/status/2118252486360498485)（2026-11-05）
+
+---
+
+### 53. 社区 · 同提示词 Flare / Sunburst 对比四连（@VIBEQUIRKLABS）
+
+作者同一提示分别跑 GPT-Image-2.6 / Flare / Sunburst，展示差异（提示词正文未公开）。
+
+**提示词未公开**（见原帖）。
+
+| 1 | 2 | 3 | 4 |
+|:-:|:-:|:-:|:-:|
+| ![](images/community-vibequirk-1.jpg) | ![](images/community-vibequirk-2.jpg) | ![](images/community-vibequirk-3.jpg) | ![](images/community-vibequirk-4.jpg) |
+
+来源：[X 原帖 @VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS/status/2118223384198926432)（2026-11-05）
+
+---
+
+### 54. 社区 · Sunburst 原生 GIF vs 合成 GIF（@coldmountainlab）
+
+作者对比 API 原生 GIF（512×512、16 帧）与「先出动作帧再合成」两种路径。
+
+**提示词未公开**（见原帖；标注 #GPTImage）。
+
+| 对比动图镜像 |
+|:------------:|
+| ![](images/community-coldmountain.gif) |
+
+来源：[X 原帖 @coldmountainlab](https://x.com/coldmountainlab/status/2118249456487277046)（2026-11-05）
+
+---
+
+### 55. 社区 · ChatGPT Image 2.6 GIF 稳定性测试（@daaihq）
+
+作者测试 ChatGPT image 2.6 GIF，认为单张更稳、批量仍易崩。
+
+**提示词未公开**（见原帖）。
+
+| GIF 1 | GIF 2 |
+|:-----:|:-----:|
+| ![](images/community-daai-1.gif) | ![](images/community-daai-2.gif) |
+
+来源：[X 原帖 @daaihq](https://x.com/daaihq/status/2118250539670794442)（2026-11-05）
+
+---
+
+### 56. 社区 · GIF / SVG 样例合集（@Aliadafu）
+
+作者展示 Image 2.6 直出 GIF 与 SVG 相关样例。
+
+**提示词未公开**（见原帖）。
+
+| 样例 |
+|:----:|
+| ![](images/community-aliadafu-1.jpg) ![](images/community-aliadafu-2.jpg) ![](images/community-aliadafu-3.jpg) |
+
+来源：[X 原帖 @Aliadafu](https://x.com/Aliadafu/status/2118242049787093361)（2026-11-05）
+
+---
+
+### 57. 社区 · 复古街机格斗角色动作 GIF（@xiaomovps）
+
+作者用 Images 2.6 生成 16-bit 街机格斗素材，并做成出拳等循环 GIF。
+
+**提示词未公开**（见原帖）。
+
+| GIF 1 | GIF 2 | 静帧 |
+|:-----:|:-----:|:----:|
+| ![](images/community-xiaomo-1.gif) | ![](images/community-xiaomo-2.gif) | ![](images/community-xiaomo-still.jpg) |
+
+来源：[X 原帖 @xiaomovps](https://x.com/xiaomovps/status/2118274032227471705)（2026-11-05）
+
+---
+
+### 58. 社区 · 参考图 + 日程定时角色消息（@elle_elle_e）
+
+作者演示 Images 2.6 参考图注册，并与 ChatGPT 日程组合（UI 截图）。
+
+**提示词见原帖**（日程模板含 `REFERENCE_NAME` / `CHARACTER` 占位）。
+
+| 截图 |
+|:----:|
+| ![](images/community-elle-1.jpg) ![](images/community-elle-2.jpg) ![](images/community-elle-3.jpg) |
+
+来源：[X 原帖 @elle_elle_e](https://x.com/elle_elle_e/status/2118293441751007660)（2026-11-05）
+
+---
+
+### 59. 社区 · 蓝色大肥鱼 GIF 表情包（@lixinbao_X）
+
+作者用 Images 2.6 / Flare·Sunburst 叙事，展示大肥鱼动态表情。
+
+**提示词未公开**（见原帖）。
+
+| 静帧 | GIF |
+|:----:|:---:|
+| ![](images/community-lixin-1.jpg) ![](images/community-lixin-2.jpg) | ![](images/community-lixin-3.gif) ![](images/community-lixin-4.gif) |
+
+来源：[X 原帖 @lixinbao_X](https://x.com/lixinbao_X/status/2118253929222029694)（2026-11-05）
+
+---
+
+### 60. 社区 · Markup 红圈局部重着色模板（@just_v3ra）
+
+作者整理 Images 2.6 API markup 局部编辑提示模板（配示意图）。
+
+**提示词（原帖原文模板）**：
+
+```text
+Recolor the [object] inside the red circle to [new look].
+Keep [what must stay] and the rest of the image unchanged.
+Remove the red circle from the finished image.
+```
+
+| 示意 |
+|:----:|
+| ![](images/community-just-v3ra-markup.png) |
+
+来源：[X 原帖 @just_v3ra](https://x.com/just_v3ra/status/2118243623300993210)（2026-11-05）
+
+---
+
+### 61. 社区 · Chibi 角色多视角设定表（@CodeByNZ）
+
+作者在 Higgsfield 上用 ChatGPT Images 2.6 做大头 chibi 肖像与正/背/侧设定。
+
+**提示词未公开**（见原帖）。
+
+| 设定表 |
+|:------:|
+| ![](images/community-codebynz-1.jpg) ![](images/community-codebynz-2.jpg) ![](images/community-codebynz-3.jpg) ![](images/community-codebynz-4.jpg) |
+
+来源：[X 原帖 @CodeByNZ](https://x.com/CodeByNZ/status/2118307616115802431)（2026-11-05）
+
+---
+
+### 62. 社区 · Images 2.6 GIF + 参考图功能演示（@hikawoai）
+
+作者介绍 Images 2.6 的 GIF 与参考图调用，并附演示动图。
+
+**提示词未公开**（见原帖）。
+
+| 静帧 | GIF |
+|:----:|:---:|
+| ![](images/community-hikawo-still.jpg) | ![](images/community-hikawo.gif) |
+
+来源：[X 原帖 @hikawoai](https://x.com/hikawoai/status/2118316299604668885)（2026-11-05）
+
+---
+
+### 63. 社区 · 官方 6 帧分镜 GIF 写法拆解（@HappyS6688）
+
+作者拆解 Images 2.6 官方示例的 6 帧分镜写法，并给出可复用模板。
+
+**提示词模板（原帖）**：
+
+```text
+做一张循环 GIF 用的 6 帧分镜图，3 列 2 行、每格同尺寸。[角色]在[场景]里，先[动作1]，再[动作2]，最后[动作3]，第 6 帧自然过渡回第 1 帧。固定机位，角色、服装、背景不变。不要文字、边框和格子线。
+```
+
+| 配图 |
+|:----:|
+| ![](images/community-happys-1.png) ![](images/community-happys-2.jpg) |
+
+来源：[X 原帖 @HappyS6688](https://x.com/HappyS6688/status/2118319539498758475)（2026-11-05）
+
+---
+
+### 64. 社区 · 六种材质无限循环 GIF 合集（@atlante83）
+
+作者用 ChatGPT Images 2.6 做毡布、剪纸、riso、像素、Y2K、粘土等六种风格无限循环。
+
+**提示词未公开**（见原帖）。
+
+| 静帧 | 合集动图镜像 |
+|:----:|:------------:|
+| ![](images/community-atlante-still.jpg) | ![](images/community-atlante.gif) |
+
+来源：[X 原帖 @atlante83](https://x.com/atlante83/status/2118241280543047702)（2026-11-05）
+
+---
+
+### 65. 社区 · ChatGPT 免费档循环 GIF 入门（@kel_ruael）
+
+作者介绍 Images 2.6 免费档做循环 GIF 的步骤卡（配图）。
+
+**提示词见原帖回复**（主帖为步骤导引）。
+
+| 配图 |
+|:----:|
+| ![](images/community-kel-ruael.jpg) |
+
+来源：[X 原帖 @kel_ruael](https://x.com/kel_ruael/status/2118248382091403387)（2026-11-05）
+
+---
+
+### 66. 社区 · ChatGPT App 内 Logo / 平面测试（@creatortray）
+
+作者在 ChatGPT App 测试 Image 2.6，展示多张生成结果，并点评 Logo/平面设计仍需打磨。
+
+**提示词未公开**（见原帖）。
+
+| 样例 |
+|:----:|
+| ![](images/community-creatortray-1.jpg) ![](images/community-creatortray-2.jpg) ![](images/community-creatortray-3.jpg) ![](images/community-creatortray-4.jpg) |
+
+来源：[X 原帖 @creatortray](https://x.com/creatortray/status/2118221750203031897)（2026-11-05）
+
+---
+
+### 67. 社区 · 雷霆视角 POV 自拍提示词（@johnAGI168）
+
+作者公开完整 ChatGPT Images 2.6 英文提示词并附生成图。
+
+**提示词（原帖原文）**：
+
+```text
+雷霆视角📷
+
+ChatGPT Images 2.6 prompt 👇
+
+A crisp, high-fidelity vertical POV selfie photograph captured from an extreme high angle with a 20mm ultra-wide lens perspective — looking straight down at an exceptionally gorgeous young East Asian woman standing in her bedroom, her outstretched arm framing the upper corner.
+
+She possesses elite influencer beauty, wavy dark brown hair with see-through air bangs, light gray-green contact lenses, a tiny beauty mark beneath her right eye, igari-style pink blushed cheeks, and glossy lips. She has a slender hourglass figure, wearing a tight white scoop-neck cropped short-sleeve tee, black retro dolphin shorts with white piped edges and a front drawstring, and glossy black patent leather pointed-toe stiletto pumps on her bare feet.
+
+The room features light oak hardwood flooring, soft cream curtains, and a white bed edge softly blurred in the background. Clean, diffuse indoor overhead ambient lighting illuminates her features naturally, casting gentle, physically accurate contact shadows beneath her heels.
+
+Captured with natural wide-angle perspective stretching height from head to feet, with deep depth of field and fine organic 35mm grain. Authentic skin texture with delicate pores, biological warmth, realistic cotton fabric stretch, and crisp patent leather reflections — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.
+```
+
+| 预览 |
+|:----:|
+| ![](images/community-johnagi.jpg) |
+
+来源：[X 原帖 @johnAGI168](https://x.com/johnAGI168/status/2118247837683044650)（2026-11-05）
+
+---
+
+### 68. 社区 ·「收到」社畜表情 GIF（@Savannahgm7r）
+
+作者用 Images 2.6 做工作群「收到」配精神状态的 GIF。
+
+**提示词未公开**（见原帖）。
+
+| GIF 镜像 |
+|:--------:|
+| ![](images/community-savannah.gif) |
+
+来源：[X 原帖 @Savannahgm7r](https://x.com/Savannahgm7r/status/2118253296632967463)（2026-11-05）
+
+---
+
+
 ## 选型建议（官方引导摘要）
 
 | 你的现状 | 建议先测 |
