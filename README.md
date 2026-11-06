@@ -141,6 +141,7 @@ ChatGPT 用户可直接在对话中使用 Images 2.6（含 GIF）；无需写代
 | GPT 国内高速镜像站 | https://trygpt.asia/list/#/home | 适合网页端免梯直接对话、工作流轻量体验 |
 | MomoAI 包月套餐 | https://momoai.asia/home | 适合持续使用、希望按月订阅套餐的用户 |
 | 全模型 API 聚合站 | https://tryallapi.com/ | 适合开发者调用、低延迟直连、多模型一站式接入 |
+| Images 2.6 模型页（站内） | https://gptimage2.asia/models/gpt-images-2.6 | 产品介绍与试用入口（可选） |
 | 官方代充通道 | https://chongzhi.trygpt.asia/ | 解决海外支付门槛，官方账户直充 |
 | Trymodel 多模型聊天 | https://trymodel.chat/ | 适合在同一网页中体验不同 AI 模型的对话 |
 
