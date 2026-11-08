@@ -1488,6 +1488,1767 @@ Captured with natural wide-angle perspective stretching height from head to feet
 ---
 
 
+## 整合图库：全部素材与提示词
+
+本节按 GitHub Pages 图库顺序列出全部 92 个案例。素材文件位于 `docs/gallery/assets/media/`；提示词仅展示仓库已收录或来源公开的内容，未公开部分明确标注，不补写未经核实的提示词。
+
+### 1. 为 SVG 火柴人更换颜色
+- 分类：图标与 SVG
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/higgsfield_ai/status/2118149257140306238)
+
+**素材**
+
+![为 SVG 火柴人更换颜色 素材](docs/gallery/assets/media/svg-1.jpg)
+
+[视频素材：svg-1.mp4](docs/gallery/assets/media/svg-1.mp4)
+
+**提示词**
+
+```text
+上传火柴人 SVG，保留人物轮廓、动作和背景，将围巾改为鲜红色。输出可编辑 SVG；如需动画，请分别提供静态矢量素材与动画实现方案。
+```
+
+
+### 2. 制作像素游戏角色动作
+- 分类：游戏与互动
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/higgsfield_ai/status/2118152815625552235)
+
+**素材**
+
+![制作像素游戏角色动作 素材](docs/gallery/assets/media/sprites-1.jpg)
+
+[视频素材：sprites-1.mp4](docs/gallery/assets/media/sprites-1.mp4)
+
+**提示词**
+
+```text
+设计横版像素游戏素材：废品场背景、机器人角色，以及待机、行走、攻击动作的逐帧精灵表。统一像素尺寸、调色板和角色比例，透明背景导出角色素材。
+```
+
+
+### 3. 设计月球种花小游戏
+- 分类：游戏与互动
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/Picsart/status/2118327473813205154)
+
+**素材**
+
+![设计月球种花小游戏 素材](docs/gallery/assets/media/moon-1.jpg)
+
+**提示词**
+
+```text
+设计月球种花小游戏的视觉素材：宇航员角色、月面温室、种子到开花的生长阶段及操作按钮。采用统一游戏美术风格，并分别整理背景、角色、植物和界面素材。
+```
+
+
+### 4. 用动图预演角色动作
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/mirochill/status/2118328887348191491)
+
+**素材**
+
+![用动图预演角色动作 素材](docs/gallery/assets/media/preview-1.jpg)
+
+[视频素材：preview-1.mp4](docs/gallery/assets/media/preview-1.mp4)
+
+**提示词**
+
+```text
+上传一张角色画面，生成短循环 GIF：角色轻轻眨眼并转头，回到初始姿势，镜头固定，保持人物身份、服饰与原画风格。
+```
+
+
+### 5. 制作人体呼吸系统图解
+- 分类：知识与表达
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/MercyDeGreat/status/2118319217611055417)
+
+**素材**
+
+![制作人体呼吸系统图解 素材](docs/gallery/assets/media/breathing-1.jpg)
+
+[视频素材：breathing-1.mp4](docs/gallery/assets/media/breathing-1.mp4)
+
+**提示词**
+
+```text
+制作人体呼吸系统科普信息图，展示鼻腔、气管、肺和肺泡，并用箭头说明吸气路径。版式清晰、标签可读；专业结构和术语由人工复核。
+```
+
+
+### 6. 让角色动起来：大肥鱼表情包
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/halozhangyu/status/2118327841410408546)
+
+**素材**
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-1.jpg)
+
+[视频素材：fish-1.mp4](docs/gallery/assets/media/fish-1.mp4)
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-2.jpg)
+
+[视频素材：fish-2.mp4](docs/gallery/assets/media/fish-2.mp4)
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-3.jpg)
+
+[视频素材：fish-3.mp4](docs/gallery/assets/media/fish-3.mp4)
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-4.jpg)
+
+[视频素材：fish-4.mp4](docs/gallery/assets/media/fish-4.mp4)
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-prompt-1.jpg)
+
+[视频素材：fish-prompt-1.mp4](docs/gallery/assets/media/fish-prompt-1.mp4)
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-prompt-2.jpg)
+
+[视频素材：fish-prompt-2.mp4](docs/gallery/assets/media/fish-prompt-2.mp4)
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-prompt-3.jpg)
+
+[视频素材：fish-prompt-3.mp4](docs/gallery/assets/media/fish-prompt-3.mp4)
+
+![让角色动起来：大肥鱼表情包 素材](docs/gallery/assets/media/fish-prompt-4.jpg)
+
+[视频素材：fish-prompt-4.mp4](docs/gallery/assets/media/fish-prompt-4.mp4)
+
+**提示词**
+
+```text
+上传角色参考图，把角色制作成短循环表情 GIF：先低头，再抬头眨眼，表情夸张但可爱。保持发型、服装、线条和颜色一致，最后回到起始姿势。
+```
+
+
+### 7. 让角色跳舞
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/798145343h/status/2118164732989608405)
+
+**素材**
+
+![让角色跳舞 素材](docs/gallery/assets/media/dance-1.jpg)
+
+[视频素材：dance-1.mp4](docs/gallery/assets/media/dance-1.mp4)
+
+![让角色跳舞 素材](docs/gallery/assets/media/dance-2.jpg)
+
+[视频素材：dance-2.mp4](docs/gallery/assets/media/dance-2.mp4)
+
+**提示词**
+
+```text
+上传角色立绘，制作简短循环舞蹈 GIF：左右轻摆、挥手，再回到起始姿势。镜头固定，保持角色服装、发型、比例和画风一致。
+```
+
+
+### 8. 将模糊标志转为矢量图
+- 分类：图标与 SVG
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/EHuanglu/status/2118166856498638932)
+
+**素材**
+
+![将模糊标志转为矢量图 素材](docs/gallery/assets/media/logo.jpg)
+
+[视频素材：logo.mp4](docs/gallery/assets/media/logo.mp4)
+
+**提示词**
+
+```text
+上传模糊的标志作为参考，先还原主要轮廓和配色，简化为适合缩放的几何形状，再输出可编辑 SVG。文字不清楚时保留空位并向我确认。
+```
+
+
+### 9. 将分镜与矢量素材用于动画
+- 分类：游戏与互动
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/trymirage/status/2118132360248004683)
+
+**素材**
+
+![将分镜与矢量素材用于动画 素材](docs/gallery/assets/media/storyboard.jpg)
+
+[视频素材：storyboard.mp4](docs/gallery/assets/media/storyboard.mp4)
+
+**提示词**
+
+```text
+围绕一个角色从房门走出并挥手的动作，先设计连续分镜与关键姿势；分别提供透明背景角色素材和场景。再说明如何在动画工具中组织图层与时间线。
+```
+
+
+### 10. 制作透明底角色与界面动效
+- 分类：游戏与互动
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/Yur1freedom/status/2118161546845299177)
+
+**素材**
+
+![制作透明底角色与界面动效 素材](docs/gallery/assets/media/ui-motion.jpg)
+
+[视频素材：ui-motion.mp4](docs/gallery/assets/media/ui-motion.mp4)
+
+**提示词**
+
+```text
+设计一位透明背景的卡通角色及配套 UI 动效草稿：包含待机、点击反馈和成功状态。统一轮廓和配色，分别输出角色、按钮和关键帧；实际交互由代码实现。
+```
+
+
+### 11. 制作咖啡机图解并翻译
+- 分类：知识与表达
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![制作咖啡机图解并翻译 素材](docs/gallery/assets/media/round6-infographic-coffee-machine-gpt-image-2-6-sunburst.webp)
+
+![制作咖啡机图解并翻译 素材](docs/gallery/assets/media/round6-infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+
+### 12. 移除人物手中花朵
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![移除人物手中花朵 素材](docs/gallery/assets/media/round6-man-with-blue-hat.webp)
+
+![移除人物手中花朵 素材](docs/gallery/assets/media/round6-man-with-no-flower-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+
+### 13. 绘本角色跨场景延续
+- 分类：角色与故事
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![绘本角色跨场景延续 素材](docs/gallery/assets/media/round6-childrens-book-illustration-1-gpt-image-2-6-sunburst.webp)
+
+![绘本角色跨场景延续 素材](docs/gallery/assets/media/round6-childrens-book-illustration-2-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+
+### 14. 制作提灯猴子的循环动图
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![制作提灯猴子的循环动图 素材](docs/gallery/assets/media/round6-monkey-lantern-gpt-image-2-6-sunburst.gif)
+
+**提示词**
+
+```text
+A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
+```
+
+
+### 15. 生成可编辑的面包店标志
+- 分类：图标与 SVG
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-generation#generate-svg-output)
+
+**素材**
+
+![生成可编辑的面包店标志 素材](docs/gallery/assets/media/field-and-flour-flare.svg)
+
+![生成可编辑的面包店标志 素材](docs/gallery/assets/media/field-and-flour-sunburst.svg)
+
+**提示词**
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+
+### 16. 圈选花瓶并修改颜色
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6#guide-an-edit-with-markup)
+
+**素材**
+
+![圈选花瓶并修改颜色 素材](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-input-gpt-image-2-6.webp)
+
+![圈选花瓶并修改颜色 素材](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-gpt-image-2-6-flare.webp)
+
+**提示词**
+
+```text
+Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.
+```
+
+
+### 17. 夜市活动海报
+- 分类：商业与设计
+- 模型标注：`gpt-2.5 gpt-2.6`
+- 原始来源：[查看案例](https://tryclico.com/models/gpt-image-2-6)
+
+**素材**
+
+![夜市活动海报 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/poster-2.5-flare.webp)
+
+![夜市活动海报 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/poster-2.6-flare.webp)
+
+![夜市活动海报 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/poster-2.6-sunburst.webp)
+
+**提示词**
+
+```text
+Design a clean Swiss-style poster on ivory paper. The only text is the headline NIGHT MARKET in large black type and the subtitle FRIDAY 7 PM underneath. A single red circle occupies the bottom right. Text must be spelled exactly and no words repeated.
+```
+
+**模型说明**：模型对比：分别使用 GPT Image 2.5 与 2.6 生成同一主题的海报，展示不同版本的效果。
+
+
+### 18. 香水瓶商品主图
+- 分类：商业与设计
+- 模型标注：`gpt-2.5 gpt-2.6`
+- 原始来源：[查看案例](https://tryclico.com/models/gpt-image-2-6)
+
+**素材**
+
+![香水瓶商品主图 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/product-2.5-flare.webp)
+
+![香水瓶商品主图 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/product-2.6-flare.webp)
+
+![香水瓶商品主图 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/product-2.6-sunburst.webp)
+
+**提示词**
+
+```text
+Square editorial product photograph of one cobalt-blue glass perfume bottle on pale travertine, with a soft shadow cast to the right and a thin peach blossom reflected in the glass. Keep the bottle to the left and the right third empty. No text.
+```
+
+**模型说明**：模型对比：分别使用 GPT Image 2.5 与 2.6 生成商品主图，对比画面效果。
+
+
+### 19. 陶艺师工作场景
+- 分类：商业与设计
+- 模型标注：`gpt-2.5 gpt-2.6`
+- 原始来源：[查看案例](https://tryclico.com/models/gpt-image-2-6)
+
+**素材**
+
+![陶艺师工作场景 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/portrait-2.5-flare.webp)
+
+![陶艺师工作场景 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/portrait-2.6-flare.webp)
+
+![陶艺师工作场景 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/portrait-2.6-sunburst.webp)
+
+**提示词**
+
+```text
+Photorealistic portrait of a smiling adult ceramicist in an olive apron holding a white ceramic cup with both hands. Show both natural hands and the cup clearly, medium close-up, soft window light from the left, workshop in the background.
+```
+
+**模型说明**：模型对比：分别使用 GPT Image 2.5 与 2.6 生成工作室人物肖像，对比画面效果。
+
+
+### 20. 等距房间概念图
+- 分类：商业与设计
+- 模型标注：`gpt-2.5 gpt-2.6`
+- 原始来源：[查看案例](https://tryclico.com/models/gpt-image-2-6)
+
+**素材**
+
+![等距房间概念图 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/layout-2.5-flare.webp)
+
+![等距房间概念图 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/layout-2.6-flare.webp)
+
+![等距房间概念图 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/layout-2.6-sunburst.webp)
+
+**提示词**
+
+```text
+Isometric cutaway illustration of a tiny room with a mustard sofa against the back wall, exactly two blue cushions on it, a green floor lamp to the left of the sofa, and a round white table in front. Off-white background, no words.
+```
+
+**模型说明**：模型对比：分别使用 GPT Image 2.5 与 2.6 生成等距房间，对比画面效果。
+
+
+### 21. 参考图改色
+- 分类：图片编辑
+- 模型标注：`gpt-2.5 gpt-2.6`
+- 原始来源：[查看案例](https://tryclico.com/models/gpt-image-2-6)
+
+**素材**
+
+![参考图改色 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/reference.webp)
+
+![参考图改色 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/reference-edit-2.5-flare.webp)
+
+![参考图改色 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/reference-edit-2.6-flare.webp)
+
+![参考图改色 素材](https://tryclico.com/creative/experiments/gpt-image-2-6/reference-edit-2.6-sunburst.webp)
+
+**提示词**
+
+```text
+Edit the supplied product illustration. Change only the blue bottle body to dark forest green. Preserve its silhouette, the gold cap, the cream FIELD 07 label, the shadows and the position of everything else.
+```
+
+**模型说明**：模型对比：以同一参考图为起点，分别使用 GPT Image 2.5 与 2.6 修改颜色。
+
+
+### 22. 把手绘草图变成动态角色
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://openai.com/index/introducing-images-2-6/#animate-your-ideas-with-gifs)
+
+**素材**
+
+![把手绘草图变成动态角色 素材](docs/gallery/assets/media/official-owl-sketch.webp)
+
+![把手绘草图变成动态角色 素材](docs/gallery/assets/media/official-owl-animation.webp)
+
+**提示词**
+
+```text
+上传手绘角色草图，保留原来的轮廓和表情，先制作清晰的角色插画，再生成角色眨眼、轻轻摇摆并回到原位的短循环 GIF。
+```
+
+
+### 23. 让猫咪闯进棒球赛场
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://www.watch.impress.co.jp/docs/news/2153811.html)
+
+**素材**
+
+![让猫咪闯进棒球赛场 素材](docs/gallery/assets/media/baseball-cat.gif)
+
+**提示词**
+
+```text
+制作短循环动图：一只猫突然出现在棒球比赛现场，被捕手安全接住；交代猫和捕手的位置与连续动作，保持人物与球场视觉一致。
+```
+
+
+### 24. 从视觉设计稿到网页实现
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/Voxyz_ai/status/2118327475294097710)
+
+**素材**
+
+![从视觉设计稿到网页实现 素材](docs/gallery/assets/media/voxyz-original-post.png)
+
+**提示词**
+
+```text
+先根据我上传的现有页面截图设计新版网页视觉稿，保留核心内容，优化层级、间距和移动端布局；再将设计稿与要求交给 Codex，在现有项目中实现并验证。
+```
+
+
+### 25. 生成一套搬家服务图标
+- 分类：图标与 SVG
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://mp.weixin.qq.com/s/I0YaEYsvs8V4BDL9jZLjZA)
+
+**素材**
+
+![生成一套搬家服务图标 素材](docs/gallery/assets/media/moving-app-icon-board.png)
+
+**提示词**
+
+```text
+为搬家服务 App 设计 40 个统一的线性图标，覆盖货车、打包、家具搬运、预约和支付。统一线宽与网格，先展示总览；如需 SVG，再逐个导出可编辑矢量文件。
+```
+
+
+### 26. 角色立绘变点头动图
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://www.reddit.com/r/OpenAI/comments/1xoh2u0/i_tried_the_new_image_26_gif_feature/)
+
+**素材**
+
+![角色立绘变点头动图 素材](docs/gallery/assets/media/round4-character-nod.gif)
+
+**提示词**
+
+```text
+You are animator
+
+Create a gif of this character nods
+
+Context:
+I want you to animate this character so she nods and then close her eyes. The flow is at first she slowly nods up. Second, she quickly nods down. Finally, her head back to normal pose with frames in between the nods down to normal, she also closes her eyes. It is like typical anime girls nodding.
+
+Format: Same art style & outline as given image's
+```
+
+
+### 27. 双人饮品照去背景
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://openart.ai/ai-model/gpt-image-2-6/)
+
+**素材**
+
+![双人饮品照去背景 素材](docs/gallery/assets/media/round4-cutout.jpg)
+
+**提示词**
+
+```text
+上传双人合照，移除环境背景，只保留两个人和手中的饮品；仔细处理头发、手指与杯子边缘，导出透明背景 PNG。
+```
+
+
+### 28. 客户改稿只圈两处
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://openart.ai/ai-model/gpt-image-2-6/)
+
+**素材**
+
+![客户改稿只圈两处 素材](docs/gallery/assets/media/round4-client-revision.jpg)
+
+**提示词**
+
+```text
+上传并标注图片：把圈出的招牌文字改为「[新文字]」，把圈出的外套改成[目标颜色]；保持人物、背景、构图与其他区域不变，去除标注。
+```
+
+
+### 29. 同一商品照做节日版
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://openart.ai/ai-model/gpt-image-2-6/)
+
+**素材**
+
+![同一商品照做节日版 素材](docs/gallery/assets/media/round4-seasonal-product.jpg)
+
+**提示词**
+
+```text
+上传商品照，保持商品形状、标签和机位一致，分别制作春季、夏季、秋季和冬季背景的宣传图。每张统一光线与商品占比，文字暂不添加。
+```
+
+
+### 30. 广告每版只改一个元素
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://openart.ai/ai-model/gpt-image-2-6/)
+
+**素材**
+
+![广告每版只改一个元素 素材](docs/gallery/assets/media/round4-ad-variants.jpg)
+
+**提示词**
+
+```text
+上传广告图，生成三个变体：第一版只改标题，第二版只改优惠信息，第三版只改背景。每版保留其他元素，文字使用我提供的准确内容。
+```
+
+
+### 31. 开拍前预演场景灯光
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://openart.ai/ai-model/gpt-image-2-6/)
+
+**素材**
+
+![开拍前预演场景灯光 素材](docs/gallery/assets/media/round4-film-still.jpg)
+
+**提示词**
+
+```text
+为夜间厨房拍摄制作灯光预演：室内整体较暗，打开冰箱后由冷白光照亮人物与附近台面。给出写实镜头构图，并保持光源方向合理。
+```
+
+
+### 32. 狐狸吉祥物挥手
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://veevid.ai/ja/blog/gpt-image-2-6-gif)
+
+**素材**
+
+![狐狸吉祥物挥手 素材](docs/gallery/assets/media/round5-0.gif)
+
+**提示词**
+
+```text
+制作贴纸风格的狐狸吉祥物循环 GIF：面向镜头挥手一次、眨眼，再回到原姿势。背景简洁、镜头固定，保持角色外形一致。
+```
+
+
+### 33. 仙人掌分步挥手
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://veevid.ai/ja/blog/gpt-image-2-6-gif)
+
+**素材**
+
+![仙人掌分步挥手 素材](docs/gallery/assets/media/round5-2.gif)
+
+**提示词**
+
+```text
+制作仙人掌吉祥物的短循环 GIF：先侧倾，再挥手和眨眼，最后回到直立姿势。背景简洁，动作清楚，首尾自然衔接。
+```
+
+
+### 34. 让咖啡蒸汽循环升起
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://veevid.ai/ja/blog/gpt-image-2-6-gif)
+
+**素材**
+
+![让咖啡蒸汽循环升起 素材](docs/gallery/assets/media/round5-1.gif)
+
+**提示词**
+
+```text
+制作一杯热咖啡的短循环 GIF：杯子和镜头固定，细小蒸汽缓缓上升并自然消散；简洁背景，首尾衔接自然。
+```
+
+
+### 35. 把机器人草图变成动图
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://veevid.ai/ja/blog/gpt-image-2-6-gif)
+
+**素材**
+
+![把机器人草图变成动图 素材](docs/gallery/assets/media/round5-6.webp)
+
+![把机器人草图变成动图 素材](https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-robot-sketch.gif)
+
+**提示词**
+
+```text
+上传机器人草图，保留黑白手绘线条与角色造型，制作机器人挥手、眨眼后回到原位的短循环 GIF；保持背景和镜头不动。
+```
+
+
+### 36. 让宠物照片眨眼摇尾
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://veevid.ai/ja/blog/gpt-image-2-6-gif)
+
+**素材**
+
+![让宠物照片眨眼摇尾 素材](docs/gallery/assets/media/round5-dog.gif)
+
+**提示词**
+
+```text
+上传宠物照片，制作自然的短循环 GIF：宠物眨眼并轻轻摇尾巴，最后回到原姿势。保持宠物外貌和背景，固定镜头。
+```
+
+
+### 37. 为香水瓶制作扫光动图
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://veevid.ai/ja/blog/gpt-image-2-6-gif)
+
+**素材**
+
+![为香水瓶制作扫光动图 素材](docs/gallery/assets/media/round5-perfume.gif)
+
+**提示词**
+
+```text
+上传香水瓶商品图，固定瓶身、背景和镜头，让一束柔和高光缓慢扫过玻璃瓶身并循环。保持标签清晰、轮廓不变。
+```
+
+
+### 38. 用四格漫画讲宠物故事
+- 分类：角色与故事
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![用四格漫画讲宠物故事 素材](docs/gallery/assets/media/round7-comic-reel-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+
+### 39. 市场机会演示页
+- 分类：知识与表达
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![市场机会演示页 素材](docs/gallery/assets/media/round7-market-opportunity-slide-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+
+### 40. 参考图迁移像素风
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![参考图迁移像素风 素材](docs/gallery/assets/media/round7-motorcycle-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+
+### 41. 服装参考图组合试穿
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![服装参考图组合试穿 素材](docs/gallery/assets/media/round7-outfit-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+
+### 42. 手绘风景变真实照片
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![手绘风景变真实照片 素材](docs/gallery/assets/media/round7-realistic-valley-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+
+### 43. 设计农贸市场 App 界面
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![设计农贸市场 App 界面 素材](docs/gallery/assets/media/round7-ui-farmers-market-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+
+### 44. 房间照片更换家具
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![房间照片更换家具 素材](docs/gallery/assets/media/round8-kitchen.webp)
+
+![房间照片更换家具 素材](docs/gallery/assets/media/round8-kitchen-chairs-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+
+### 45. 收藏玩具与包装设计
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![收藏玩具与包装设计 素材](docs/gallery/assets/media/round8-christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
+
+### 46. 比较不同复杂度的足球剪纸画
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6)
+
+**素材**
+
+![比较不同复杂度的足球剪纸画 素材](docs/gallery/assets/media/round8-paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp)
+
+![比较不同复杂度的足球剪纸画 素材](docs/gallery/assets/media/round8-paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp)
+
+![比较不同复杂度的足球剪纸画 素材](docs/gallery/assets/media/round8-paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp)
+
+**提示词**
+
+```text
+A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
+```
+
+
+### 47. 像素角色的多方向动作
+- 分类：游戏与互动
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/LerSentAI/status/2118173626424025414)
+
+**素材**
+
+![像素角色的多方向动作 素材](docs/gallery/assets/media/aggregate-pixel-1.jpg)
+
+[视频素材：aggregate-pixel-1.mp4](docs/gallery/assets/media/aggregate-pixel-1.mp4)
+
+![像素角色的多方向动作 素材](docs/gallery/assets/media/aggregate-pixel-2.jpg)
+
+[视频素材：aggregate-pixel-2.mp4](docs/gallery/assets/media/aggregate-pixel-2.mp4)
+
+**提示词**
+
+```text
+设计一个像素游戏角色的精灵表，包含向前、向侧面和向后的待机与攻击动作。统一像素比例、颜色和角色特征，透明背景，帧与帧对齐。
+```
+
+
+### 48. 连续编辑中的角色一致性
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/k_matsumaru/status/2118186638228816322)
+
+**素材**
+
+![连续编辑中的角色一致性 素材](docs/gallery/assets/media/aggregate-repeat-edits.jpg)
+
+[视频素材：aggregate-repeat-edits.mp4](docs/gallery/assets/media/aggregate-repeat-edits.mp4)
+
+**提示词**
+
+```text
+上传人物肖像，按顺序只修改背景、服装和光线；每一步保留面部、发型、肤色及人物身份。分别保存结果，对比多轮后是否发生漂移。
+```
+
+
+### 49. 同一广告适配三个版位
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://jzcreates.com/blog/gpt-image-2-6-ad-examples/)
+
+**素材**
+
+![同一广告适配三个版位 素材](docs/gallery/assets/media/aggregate-jz-04a-campaign-hero.webp)
+
+![同一广告适配三个版位 素材](docs/gallery/assets/media/aggregate-jz-04b-campaign-billboard.webp)
+
+![同一广告适配三个版位 素材](docs/gallery/assets/media/aggregate-jz-04c-campaign-story.webp)
+
+**提示词**
+
+```text
+上传产品和品牌视觉参考，先制作广告主视觉；再以同一产品、标志与核心文案适配户外横幅和手机竖版广告。每版核对产品细节和文字。
+```
+
+
+### 50. 餐厅粉笔菜单与价格
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://jzcreates.com/blog/gpt-image-2-6-ad-examples/)
+
+**素材**
+
+![餐厅粉笔菜单与价格 素材](docs/gallery/assets/media/aggregate-jz-07-menu-board.webp)
+
+**提示词**
+
+```text
+设计一块手写粉笔风餐厅菜单板，清晰排列我提供的菜名、分类和价格。深色黑板背景，层级分明，不新增菜品；输出后逐项核对文字和价格。
+```
+
+
+### 51. 一张品牌视觉概念板
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://jzcreates.com/blog/gpt-image-2-6-ad-examples/)
+
+**素材**
+
+![一张品牌视觉概念板 素材](docs/gallery/assets/media/aggregate-jz-10-brand-sheet.webp)
+
+**提示词**
+
+```text
+为[品牌名称]制作一张品牌视觉概念板，展示标志构想、主辅色、字体风格和包装应用。统一风格并标明这是概念稿，实际使用前核查字体与商标。
+```
+
+
+### 52. 饮料产品旋转与分帧图
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://jzcreates.com/blog/gpt-image-2-6-ad-examples/)
+
+**素材**
+
+![饮料产品旋转与分帧图 素材](docs/gallery/assets/media/aggregate-jz-03-product-loop.gif)
+
+![饮料产品旋转与分帧图 素材](docs/gallery/assets/media/aggregate-jz-03a-product-sprites.webp)
+
+**提示词**
+
+```text
+上传饮料包装参考图，制作瓶身缓慢旋转的短循环 GIF；保持标签、瓶盖和形状一致。同时按时间顺序提供旋转动作分帧图，方便检查细节。
+```
+
+
+### 53. 地图跨季节连续编辑
+- 分类：知识与表达
+- 模型标注：`gpt-2.6 seedance-2.5`
+- 原始来源：[查看案例](https://x.com/modelstoreai/status/2118319393759191549)
+
+**素材**
+
+![地图跨季节连续编辑 素材](docs/gallery/assets/media/reverse-map.jpg)
+
+**提示词**
+
+```text
+上传地图插画，连续制作夜景、冬季和节日三个版本。保持道路、建筑位置和地图构图不变，只改变光线、季节与装饰；动画如有需要另用工具制作。
+```
+
+**模型说明**：创作流程：GPT Image 2.6 Flare 连续编辑地图，制作夜景、冬景和节日版本；原帖还涉及动画制作，具体工具分工请查看原帖。
+
+
+### 54. 商品照扩展包装设计
+- 分类：商业与设计
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://orylia.ai/ai-models/gpt-image-2-6)
+
+**素材**
+
+![商品照扩展包装设计 素材](docs/gallery/assets/media/reverse-product-original.jpg)
+
+![商品照扩展包装设计 素材](docs/gallery/assets/media/reverse-product-scene.jpg)
+
+![商品照扩展包装设计 素材](docs/gallery/assets/media/reverse-product-package.webp)
+
+**提示词**
+
+```text
+上传商品照片，先将商品放入新的陈列场景；再为同一商品添加协调的包装盒。每一步保留商品形状、标签与品牌特征，光线和透视保持一致。
+```
+
+
+### 55. 五步骤流程信息图
+- 分类：知识与表达
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://animer.ai/gpt-image/gpt-image-2-6)
+
+**素材**
+
+![五步骤流程信息图 素材](docs/gallery/assets/media/reverse-process-infographic.webp)
+
+**提示词**
+
+```text
+制作从咖啡豆到咖啡成品的五步流程信息图：烘焙、研磨、冲泡、过滤、成品。每步配简洁图标和准确标题，按顺序排列；发布前人工核对文字。
+```
+
+
+### 56. 灯塔剖面科普信息图
+- 分类：知识与表达
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://www.flixly.ai/blog/gpt-image-2-6-flare-sunburst)
+
+**素材**
+
+![灯塔剖面科普信息图 素材](docs/gallery/assets/media/reverse-lighthouse-cutaway.jpg)
+
+**提示词**
+
+```text
+绘制灯塔剖面科普信息图，展示灯室、楼梯、内部楼层及外部海岸环境。用清晰引线标注各部分；结构和术语需参考真实资料并由人工核实。
+```
+
+
+### 57. 从 GIF 动作草稿制作视频
+- 分类：动态与表情
+- 模型标注：`gpt-2.6 minimax-h3`
+- 原始来源：[查看案例](https://x.com/cocktailpeanut/status/2118408795026043260)
+
+**素材**
+
+![从 GIF 动作草稿制作视频 素材](docs/gallery/assets/media/workflow-gif-to-video.jpg)
+
+[视频素材：workflow-gif-to-video.mp4](docs/gallery/assets/media/workflow-gif-to-video.mp4)
+
+**提示词**
+
+```text
+先根据上传的角色图生成一个动作清晰的短循环 GIF，作为动作草稿；再把 GIF 输入支持图生视频的工具，扩展为更流畅的视频，保持角色身份和主要动作。
+```
+
+**模型说明**：创作流程：先制作 GIF 动作草稿，再扩展为视频；两个模型在各阶段的具体分工请查看原帖。
+
+
+### 58. 生成 360° 全景场景
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/LexnLin/status/2046725722320888313)
+
+**素材**
+
+![生成 360° 全景场景 素材](docs/gallery/assets/media/legacy-panorama.jpg)
+
+[视频素材：legacy-panorama.mp4](docs/gallery/assets/media/legacy-panorama.mp4)
+
+**提示词**
+
+```text
+生成[场景描述]的 360° 等距柱状投影全景图，宽高比 2:1，左右边缘无缝衔接，并考虑顶部和底部投影。将结果导入全景查看器检查接缝与畸变。
+```
+
+
+### 59. 手写笔记摄影
+- 分类：商业与设计
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/patrickassale/status/2044569086013718958)
+
+**素材**
+
+![手写笔记摄影 素材](docs/gallery/assets/media/zerolu-001.jpg)
+
+**提示词**
+
+```text
+Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
+```
+
+
+### 60. 米粒上的微型文字
+- 分类：商业与设计
+- 模型标注：`unknown`
+- 原始来源：[查看案例](https://x.com/adonis_singh/status/2046673729082560919)
+
+**素材**
+
+![米粒上的微型文字 素材](docs/gallery/assets/media/zerolu-002.jpg)
+
+**提示词**
+
+```text
+A massive pile of rice, and on one single grain of rice there is tiny text that reads "wOw"
+```
+
+
+### 61. 日式游戏抽卡界面
+- 分类：游戏与互动
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/the_wheel_2024/status/2046519658166317160)
+
+**素材**
+
+![日式游戏抽卡界面 素材](docs/gallery/assets/media/zerolu-003.jpg)
+
+**提示词**
+
+```text
+日本のソシャゲのガチャ画面を生成して、
+```
+
+
+### 62. 宋代人物朋友圈
+- 分类：角色与故事
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/Panda20230902/status/2045385588065313057)
+
+**素材**
+
+![宋代人物朋友圈 素材](docs/gallery/assets/media/zerolu-004.jpg)
+
+**提示词**
+
+```text
+"Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
+```
+
+
+### 63. 生成统一风格的界面设计
+- 分类：商业与设计
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/stark_nico99/status/2045836554451706125)
+
+**素材**
+
+![生成统一风格的界面设计 素材](docs/gallery/assets/media/zerolu-005.jpeg)
+
+**提示词**
+
+```text
+Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
+```
+
+
+### 64. 虚构商品电商详情页
+- 分类：商业与设计
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/rionaifantasy/status/2045356799751303194)
+
+**素材**
+
+![虚构商品电商详情页 素材](docs/gallery/assets/media/zerolu-006.jpeg)
+
+**提示词**
+
+```text
+Generate image:
+Taobao product detail page of a T-800 robot, showing:
+front, side, and back three-view drawings of the robot,
+product price,
+product details,
+functions and usage scenarios
+```
+
+
+### 65. 历史事件社交动态
+- 分类：角色与故事
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/Tz_2022/status/2046523491940225366)
+
+**素材**
+
+![历史事件社交动态 素材](docs/gallery/assets/media/zerolu-007.jpg)
+
+**提示词**
+
+```text
+玄武门之变的朋友圈
+```
+
+
+### 66. 手机聊天界面照片
+- 分类：知识与表达
+- 模型标注：`unknown`
+- 原始来源：[查看案例](https://x.com/Gorden_Sun/status/2047178119854145562)
+
+**素材**
+
+![手机聊天界面照片 素材](docs/gallery/assets/media/zerolu-008.jpg)
+
+**提示词**
+
+```text
+Generate an image, aspect ratio 3:4. A real-life smartphone photo, with the phone screen displaying a WeChat chat interface in Chinese dialogue, featuring chat bubbles and a Word document attachment. The interface has green and gray bubbles. The screen shows obvious fingerprints, smudges, and scratches. The glass has strong reflections and a direct light source creating glare. The frame is slightly tilted, handheld shot, natural ambient light, imperfect composition, strong sense of realism, casual everyday snapshot, high detail, 4K. The dialogue is between a boss and an employee: the employee sends a file to the boss, and the boss replies that they will take a look first.
+```
+
+
+### 67. 百格故事分镜
+- 分类：角色与故事
+- 模型标注：`unknown`
+- 原始来源：[查看案例](https://x.com/ianneo_ai/status/2047260183769043119)
+
+**素材**
+
+![百格故事分镜 素材](docs/gallery/assets/media/zerolu-009.jpg)
+
+**提示词**
+
+```text
+48 宫格已经满足不了我了，我需要 100 宫格画面 8k
+```
+
+
+### 68. 电影镜头拼贴
+- 分类：角色与故事
+- 模型标注：`unknown`
+- 原始来源：[查看案例](https://x.com/chetaslua/status/2044462992176386532)
+
+**素材**
+
+![电影镜头拼贴 素材](docs/gallery/assets/media/zerolu-010.jpg)
+
+**提示词**
+
+```text
+entire superman movie image collage one shot in one output
+```
+
+
+### 69. 人物关系图
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/yihui_indie/status/2045179926270361890)
+
+**素材**
+
+![人物关系图 素材](docs/gallery/assets/media/zerolu-012.jpeg)
+
+**提示词**
+
+```text
+Please generate a key character relationship diagram for "XXX".
+```
+
+
+### 70. 青花瓷知识图解
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/joshesye/status/2045764695827562686)
+
+**素材**
+
+![青花瓷知识图解 素材](docs/gallery/assets/media/zerolu-013.jpeg)
+
+**提示词**
+
+```text
+Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
+```
+
+
+### 71. 博物馆风格物件拆解图
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/MrLarus/status/2045504669401653414)
+
+**素材**
+
+![博物馆风格物件拆解图 素材](docs/gallery/assets/media/zerolu-014.jpeg)
+
+**提示词**
+
+```text
+Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].
+
+The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information.
+
+The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible.
+
+The layout is fixed as:
+- Top: Chinese main title + subtitle + introduction
+- Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details
+- Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions
+- Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations
+- Bottom: Dressing order / composition flowchart + core feature summary
+
+If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere.
+
+Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
+```
+
+
+### 72. 多城市世界时钟墙
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/Angaisb_/status/2046666389734179018)
+
+**素材**
+
+![多城市世界时钟墙 素材](docs/gallery/assets/media/zerolu-015.jpg)
+
+**提示词**
+
+```text
+It's 10 AM in Los Angeles, 11 AM in Denver, 12 PM in Chicago, 1 PM in New York, 6 PM in London, and 2 AM in Tokyo. Render a wall with different analog clocks, each showing the correct time for its city, with the city label below each clock.
+```
+
+
+### 73. 字母主题物品网格
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/umesh_ai/status/2046510988367945983)
+
+**素材**
+
+![字母主题物品网格 素材](docs/gallery/assets/media/zerolu-016.jpg)
+
+**提示词**
+
+```text
+Create an image with a 10x10 grid of objects whose names all start with the letter A
+```
+
+
+### 74. 场景物品清单图
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/umesh_ai/status/2046569229189849228)
+
+**素材**
+
+![场景物品清单图 素材](docs/gallery/assets/media/zerolu-017.jpg)
+
+**提示词**
+
+```text
+Create a scene with 100 elements, and list the 100 elements within the image.
+```
+
+
+### 75. 百个科技主题网格
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/chetaslua/status/2046489044243403029)
+
+**素材**
+
+![百个科技主题网格 素材](docs/gallery/assets/media/zerolu-018.jpg)
+
+**提示词**
+
+```text
+Create a 10 × 10 grid of 100 different topics representing recent technological progress. Use a realistic, polished editorial illustration style. Each topic should appear in its own square with a short clear label underneath. Keep the grid neat on a white background. Make every topic visually different and every label correctly spelled. Use these row themes: Row 1: AI models and agents Row 2: robotics Row 3: semiconductors and compute Row 4: networks and smart devices Row 5: biotech and health technology Row 6: energy and power systems Row 7: transport and autonomy Row 8: space and aerospace Row 9: manufacturing and materials Row 10: climate and environmental technology. Show each tile as a realistic mini-scene, product-class object, lab instrument, robot, chip, vehicle, or device that clearly conveys the topic. Keep the overall style consistent, modern, realistic, and visually impressive.
+```
+
+
+### 76. 三日旅行攻略图
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/MrLarus/status/2046523494003851300)
+
+**素材**
+
+![三日旅行攻略图 素材](docs/gallery/assets/media/zerolu-019.jpg)
+
+**提示词**
+
+```text
+Generate a three-day travel guide image for [city]
+```
+
+
+### 77. 个人色彩搭配图
+- 分类：图片编辑
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/LinusEkenstam/status/2047286311791341576)
+
+**素材**
+
+![个人色彩搭配图 素材](docs/gallery/assets/media/zerolu-020.jpg)
+
+**提示词**
+
+```text
+Using this portrait, create a diagram-first personal color analysis. Show which clothing colors suit the subject through visual comparison. Keep text minimal and avoid paragraphs.
+```
+
+
+### 78. 服装配色对比
+- 分类：图片编辑
+- 模型标注：`unknown`
+- 原始来源：[查看案例](https://x.com/garenaguinaldox/status/2047384051322081738)
+
+**素材**
+
+![服装配色对比 素材](docs/gallery/assets/media/zerolu-021.jpg)
+
+**提示词**
+
+```text
+Create a personal color analysis using this picture. Use polo clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with explanations and tips.
+```
+
+
+### 79. 发型对比参考
+- 分类：图片编辑
+- 模型标注：`unknown`
+- 原始来源：[查看案例](https://x.com/garenaguinaldox/status/2047384051322081738)
+
+**素材**
+
+![发型对比参考 素材](docs/gallery/assets/media/zerolu-022.jpg)
+
+**提示词**
+
+```text
+Create a hairstyle analysis graphic using this picture. Show side-by-side hairstyle comparisons to highlight which hairstyles suit the subject best. Make it visual-first, with short labels only and details about the haircut.
+```
+
+
+### 80. 文章转黑板知识图
+- 分类：知识与表达
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/gabrielchua/status/2046778728748048886)
+
+**素材**
+
+![文章转黑板知识图 素材](docs/gallery/assets/media/zerolu-023.jpg)
+
+**提示词**
+
+```text
+A picture says a thousand words. GPT Image 2 creates them.
+```
+
+
+### 81. 故事人物关系海报
+- 分类：角色与故事
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/MrLarus/status/2046263153546174935)
+
+**素材**
+
+![故事人物关系海报 素材](docs/gallery/assets/media/zerolu-024.jpg)
+
+**提示词**
+
+```text
+Generate a high-design character relationship poster for [theme]. This should not be a normal illustration, but a relationship map that combines information visualization, narrative structure, poster-level design, and strong fidelity to the style of the original work.
+
+Automatically do the following:
+- identify the source work and its core setting
+- select the 6 to 12 most representative key characters, with an upper limit of 15 if needed
+- identify and show the most important relationships, such as family ties, romance, friendship, alliances, hostility, mentor-student links, master-servant links, manipulation, betrayal, and hidden relationships
+- choose the most suitable composition automatically, such as protagonist-centered, dual-core confrontation, faction layout, family tree, or time-evolution structure
+- extract the work's style DNA, including color palette, worldbuilding symbols, texture language, emotional tone, layout rhythm, and iconic motifs
+- convert those style elements into the overall visual design of the relationship map rather than simply copying an official poster
+- use different colors, line styles, and arrows to distinguish relationship types while keeping the layout clear and readable
+- emphasize the core characters most strongly, secondary characters next, and minor characters less prominently to create a clear visual hierarchy
+- keep every character name easy to read, optionally with role or faction tags if useful
+
+The final piece should:
+- make the main relationships understandable at a glance
+- strongly evoke the original work's identity and setting
+- combine infographic clarity with premium poster design
+- feel unified, polished, complete, and suitable for social sharing or poster display
+- avoid cheap flowchart vibes, clutter, or information overload
+```
+
+
+### 82. 角色十六种表情
+- 分类：角色与故事
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)
+
+**素材**
+
+![角色十六种表情 素材](docs/gallery/assets/media/zerolu-025.jpg)
+
+**提示词**
+
+```text
+Create a 16-panel expression grid of a silver-haired, blue-eyed anime girl. Her face shape, hairstyle, and clothing must remain highly consistent across all panels. The 16 expressions should include: happy, sad, angry, surprised, shy, speechless, evil grin, contemplative, curious, proud, wronged, disdainful, confused, scared, crying, and a heart expression.
+```
+
+
+### 83. 角色三视图设定表
+- 分类：角色与故事
+- 模型标注：`gpt-2`
+- 原始来源：[查看案例](https://x.com/MANISH1027512/status/2045013913901867334)
+
+**素材**
+
+![角色三视图设定表 素材](docs/gallery/assets/media/zerolu-026.jpeg)
+
+**提示词**
+
+```text
+Based on this character and background, please create a character reference sheet similar to official setting materials.
+- Includes three-view drawings: front view, side view, and back view
+- Add variations of the character's facial expressions
+- Break down and display detailed parts of the clothing and equipment
+- Add a color palette
+- Include a brief explanation of the worldview setting
+- Overall, use an organized layout (white background, illustration style)
+```
+
+
+### 84. 用 ChatGPT 精修手机照片
+- 分类：图片编辑
+- 模型标注：`unknown`
+- 原始来源：[查看案例](https://x.com/dezainaz_ceo/status/2047172512551977162)
+
+**素材**
+
+![用 ChatGPT 精修手机照片 素材](docs/gallery/assets/media/zerolu-027.jpg)
+
+**提示词**
+
+```text
+Enhance this iPhone photo with ChatGPT so it looks like a professional photographer and designer worked on it.
+```
+
+
+### 85. 一套 SVG 天气图标
+- 分类：图标与 SVG
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://image.lightlyn.com/gpt-image-2-6?lang=en)
+
+**素材**
+
+![一套 SVG 天气图标 素材](docs/gallery/assets/media/weather-icons-lightlyn.png)
+
+**提示词**
+
+```text
+为天气应用设计一套风格统一的线描图标，包括太阳、云、雨、雪和风，统一线宽与配色，输出 SVG。
+```
+
+
+### 86. 耳机商品循环动图
+- 分类：动态与表情
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://image.lightlyn.com/gpt-image-2-6?lang=en)
+
+**素材**
+
+![耳机商品循环动图 素材](docs/gallery/assets/media/lightlyn-earbuds-product.gif)
+
+**提示词**
+
+```text
+参考上传的耳机产品图，保持外观与标志一致，让盒盖缓缓打开，耳机轻轻升起，再自然回到原位。
+```
+
+
+### 87. 细胞呼吸知识图解
+- 分类：知识与表达
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+**素材**
+
+![细胞呼吸知识图解 素材](docs/gallery/assets/media/openai-cellular-respiration.webp)
+
+**提示词**
+
+```text
+制作细胞呼吸教学图解，用箭头呈现糖酵解、克雷布斯循环和电子传递链，清楚标注主要过程。
+```
+
+
+### 88. 赛博朋克角色设定板
+- 分类：角色与故事
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/itsPixieVerse/status/2118978209832435758)
+
+**素材**
+
+![赛博朋克角色设定板 素材](docs/gallery/assets/media/case-cyberpunk-sheet.jpg)
+
+**提示词**
+
+```text
+参考人物图，生成赛博朋克角色设定板，展示不同视角、动作与装备细节。
+```
+
+
+### 89. 动漫角色三视图
+- 分类：角色与故事
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/youci290897/status/2118931015490314403)
+
+**素材**
+
+![动漫角色三视图 素材](docs/gallery/assets/media/case-anime-turnaround.jpg)
+
+**提示词**
+
+```text
+根据人物参考图生成动漫风格的正面、侧面和背面，保持人物和服装一致。
+```
+
+
+### 90. 真人风格人物三视图
+- 分类：角色与故事
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/youci290897/status/2118906367369155018)
+
+**素材**
+
+![真人风格人物三视图 素材](docs/gallery/assets/media/case-real-turnaround.jpg)
+
+**提示词**
+
+```text
+根据人物参考图生成写实风格的正面、侧面和背面，保持人物和服装一致。
+```
+
+
+### 91. 科幻角色草图变成稿
+- 分类：图片编辑
+- 模型标注：`gpt-2.6`
+- 原始来源：[查看案例](https://x.com/kvickart/status/2118981989059723760)
+
+**素材**
+
+![科幻角色草图变成稿 素材](docs/gallery/assets/media/case-scifi-sketch.jpg)
+
+![科幻角色草图变成稿 素材](docs/gallery/assets/media/case-scifi-render.jpg)
+
+**提示词**
+
+```text
+参考上传的科幻角色草图，保持人物造型和色彩，补充材质、光线与细节。
+```
+
+
+### 92. 生成电子产品拆解图
+- 分类：知识与表达
+- 模型标注：`gpt-2.5 gpt-2.6`
+- 原始来源：[查看案例](https://x.com/EvoLinkAi/status/2118961650279571840)
+
+**素材**
+
+![生成电子产品拆解图 素材](docs/gallery/assets/media/evolink-product-infographic.jpg)
+
+**提示词**
+
+```text
+制作一张电子产品爆炸结构图，清楚展示主要部件并添加说明文字；所有结构标注应经人工核对。
+```
+
+**模型说明**：模型对比：左侧为 GPT Image 2.5，右侧为 GPT Image 2.6，展示电子产品结构图的不同效果。
+
+
 ## 选型建议（官方引导摘要）
 
 | 你的现状 | 建议先测 |
