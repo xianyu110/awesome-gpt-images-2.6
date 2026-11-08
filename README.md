@@ -15,6 +15,8 @@
 
 本页 GitHub Pages：<https://xianyu110.github.io/awesome-gpt-images-2.6/>
 
+本仓库已整合 [Awesome AI Creative Gallery](https://github.com/li-xiu-qi/awesome-ai-creative-gallery) 的图库页面与素材：<https://xianyu110.github.io/awesome-gpt-images-2.6/gallery/>。图库包含 92 个可筛选案例，页面脚本、样式和媒体位于 `docs/gallery/assets/`；本仓库原有的 Images 2.6 详细案例页保留在 [`docs/images-2-6.html`](docs/images-2-6.html)。
+
 ---
 
 ## 简介
